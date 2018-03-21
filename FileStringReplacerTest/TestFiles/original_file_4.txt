@@ -1,0 +1,3 @@
+this file can be used for testing separate leading and trailing identifiers <<<<like this>>>> - everything beween the 4 lots of < and > should be replaced, and everything else untouched
+lets also try this multiple times <<<<here is another>>>>
+as well as multiple times within a single line <<<<hello>>>> there <<<<people>>>>

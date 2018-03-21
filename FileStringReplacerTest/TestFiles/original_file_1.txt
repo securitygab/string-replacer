@@ -1,0 +1,4 @@
+this is the first line of the file and here is IDENTIFIER1
+this is the second line of the file without an identifier
+and the third line will have the same identifier (IDENTIFIER1) in the middle of it!
+both those instances of the identifier should be replaced if tested successfully
